@@ -67,9 +67,11 @@
 
 
 ## 👀 Check out my humble illustration corner:
+
 <p align="center">
   <a href="apokillustration.weebly.com/gallery.html /"><img src="http://apokillustration.weebly.com/uploads/7/6/9/5/76953167/published/logo-apokcor-completo2.jpeg?1494406406"></a>
-  
+	
+<p align="center">
   <a href="https://www.behance.net/apokillustd62a"><img src="https://cdn-icons-png.flaticon.com/512/1051/1051387.png?w=360" height="75px"></a>
  
 -----
