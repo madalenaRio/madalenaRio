@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="center">
   <a href="apokillustration.weebly.com/gallery.html /">
-    <img src="https://apokillustration.weebly.com/uploads/7/6/9/5/76953167/eye-monster-game-app-03_orig.png" height="75px">
+    <img src="https://apokillustration.weebly.com/uploads/7/6/9/5/76953167/eye-monster-game-app-03_orig.png" height="175px">
   </a>
 
 
