@@ -51,12 +51,11 @@
         </tr>
     </tbody>
 </table>
-</p>
+
 
 ## ⚡ Connect with me:
 
 <p align="center">
-
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://linkedin.com/in/madalena-rio-0504a7aa">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
@@ -66,18 +65,13 @@
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
       </div>
 
-</p>
-
 
 ## 👀 Check out my humble illustration corner:
 <p align="center">
-
   <a href="apokillustration.weebly.com/gallery.html /"><img src="http://apokillustration.weebly.com/uploads/7/6/9/5/76953167/published/logo-apokcor-completo2.jpeg?1494406406"></a>
   
   <a href="https://www.behance.net/apokillustd62a"><img src="https://cdn-icons-png.flaticon.com/512/1051/1051387.png?w=360" height="75px"></a>
  
-</p>
-
 -----
 
 <!--
