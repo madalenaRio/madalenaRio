@@ -13,7 +13,8 @@
 
 
 ## 🔧  Languages and Tools:
-
+	
+<p align="center">
 <table>
     <tbody>
         <tr>
@@ -50,7 +51,7 @@
         </tr>
     </tbody>
 </table>
-
+</p>
 
 ## ⚡ Connect with me:
 
@@ -69,7 +70,7 @@
 
 
 ## 👀 Check out my humble illustration corner:
-<p align="left">
+<p align="center">
 
   <a href="apokillustration.weebly.com/gallery.html /"><img src="http://apokillustration.weebly.com/uploads/7/6/9/5/76953167/published/logo-apokcor-completo2.jpeg?1494406406"></a>
   
