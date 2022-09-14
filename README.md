@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="#"><img width="100%" height="auto" src="http://apokillustration.weebly.com//uploads/7/6/9/5/76953167/1049138.jpg" height="150px"/></a>
+  <a href="apokillustration.weebly.com/gallery.html /"><img src="http://apokillustration.weebly.com/uploads/7/6/9/5/76953167/published/logo-apokcor-completo2.jpeg?1494406406"></a>
 
 <p align="center">
 
@@ -12,13 +12,6 @@
 * 💻 I'm a junior full stack web developer focused on back end
 * 🎨 I'm a self-taught illustrator artist
 * 🎓 I'm a student of life!
-
-
-<p align="left">
-  <a href="https://freshidea.com/jonah/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
-    <a href="http://eyl327.mywebcommunity.org/promos/"><img alt="Gifts" title="Gifts for you" src="https://img.shields.io/badge/-Links%20to%20free%20stuff-000000?style=for-the-badge&logo=coveralls&logoColor=white"/></a>
-</p>
-
 
 
 ## 🙋‍♂️ Connect with me:
