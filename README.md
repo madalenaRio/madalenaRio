@@ -61,7 +61,7 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="linkedin.com/in/madalena-rio-0504a7aa">
+        <a style="margin-left: 10px;"  target="_blank" href="[linkedin.com/in/madalena-rio-0504a7aa](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BoNLtBwOGTEmaAczTQg3jjQ%3D%3D)">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="#">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
