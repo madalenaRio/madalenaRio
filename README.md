@@ -63,7 +63,6 @@
                         src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a></td>
             <td><a href="#"><img alt="Heroku" title="Heroku" height="28px"
                         src="https://img.icons8.com/color/48/000000/heroku.png" /></a></td>
-
         </tr>
     </tbody>
 </table>
