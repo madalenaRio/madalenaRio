@@ -12,7 +12,7 @@
 * 🎓 I'm a student of life!
 
 
-## 👨‍💻 Languages and Tools:
+## 🔧  Languages and Tools:
 
 <table>
     <tbody>
@@ -56,7 +56,7 @@
 </table>
 
 
-## 🙋‍♂️ Connect with me:
+## ⚡ Connect with me:
 
 <p align="center">
 
@@ -72,7 +72,7 @@
 </p>
 
 
-## 🙋‍♂️ Check out my humble illustration corner:
+## 👀 Check out my humble illustration corner:
 <p align="left">
 
   <a href="apokillustration.weebly.com/gallery.html /"><img src="http://apokillustration.weebly.com/uploads/7/6/9/5/76953167/published/logo-apokcor-completo2.jpeg?1494406406"></a>
