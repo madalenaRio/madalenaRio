@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="#"><img width="100%" height="auto" src="http://apokillustration.weebly.com/uploads/7/6/9/5/76953167/published/logo-apokcor-completo2.jpeg?1494406406" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="http://apokillustration.weebly.com//uploads/7/6/9/5/76953167/1049138.jpg" height="150px"/></a>
 
 <p align="center">
 
