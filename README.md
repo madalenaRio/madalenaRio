@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="center">
   <a href="apokillustration.weebly.com/gallery.html /">
-    <img src="https://apokillustration.weebly.com/uploads/7/6/9/5/76953167/eye-monster-game-app-03_orig.png height="75px"">
+    <img src="https://apokillustration.weebly.com/uploads/7/6/9/5/76953167/eye-monster-game-app-03_orig.png" height="75px">
   </a>
 
 
@@ -61,11 +61,11 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+        <a style="margin-left: 10px;"  target="_blank" href="linkedin.com/in/madalena-rio-0504a7aa">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+        <a style="margin-left: 10px;" target="_blank" href="#">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/19351057/madalena-rio">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
 	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
 					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
@@ -87,7 +87,7 @@
 
   <a href="apokillustration.weebly.com/gallery.html /"><img src="http://apokillustration.weebly.com/uploads/7/6/9/5/76953167/published/logo-apokcor-completo2.jpeg?1494406406"></a>
   
-  <a href="https://www.behance.net/apokillustd62a"><img src="https://cdn-icons-png.flaticon.com/512/1051/1051387.png?w=360"></a>
+  <a href="https://www.behance.net/apokillustd62a"><img src="https://cdn-icons-png.flaticon.com/512/1051/1051387.png?w=360" height="75px"></a>
  
 </p>
 
