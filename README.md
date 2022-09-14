@@ -1,11 +1,9 @@
 ### Hi there 👋
-
-  <a href="apokillustration.weebly.com/gallery.html /"><img src="http://apokillustration.weebly.com/uploads/7/6/9/5/76953167/published/logo-apokcor-completo2.jpeg?1494406406"></a>
-
 <p align="center">
+  <a href="apokillustration.weebly.com/gallery.html /">
+    <img src="[https://apokillustration.weebly.com/uploads/7/6/9/5/76953167/eye-monster-game-app-03_orig.png]">
+  </a>
 
-  <a href="https://github.com/madalenaRio"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
-</p>
 
 ## 📖 About me
 
