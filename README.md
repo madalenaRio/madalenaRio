@@ -26,13 +26,6 @@
 ## 👨‍💻 Languages and Tools:
 
 <table>
-    <thead align="center">
-    <tr border: none;>
-      <td><b>📘 Project</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>🤝 Forks</b></td>
-    </tr>
-  </thead>
     <tbody>
         <tr>
             <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
@@ -47,9 +40,7 @@
             <td><a href="#"><img alt="PHP" title="PHP" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></a>
             </td>
-
         </tr>
-
         <tr>
             <td><a href="#"><img alt="NodeJS" title="NodeJS" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
@@ -70,7 +61,6 @@
             </td>
             <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="28px"
                         src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a></td>
- 
             <td><a href="#"><img alt="Heroku" title="Heroku" height="28px"
                         src="https://img.icons8.com/color/48/000000/heroku.png" /></a></td>
 
