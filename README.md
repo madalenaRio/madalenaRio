@@ -26,6 +26,13 @@
 ## 👨‍💻 Languages and Tools:
 
 <table>
+    <thead align="center">
+    <tr border: none;>
+      <td><b>📘 Project</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🤝 Forks</b></td>
+    </tr>
+  </thead>
     <tbody>
         <tr>
             <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
