@@ -35,12 +35,12 @@
             <td><a href="#"><img alt="SQL" title="SQL" height="28px" 
 				 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
             </td>
-            <td><a href="#"><img alt="Markdown" title="Markdown" height="28px" 
-				 src="https://i.imgur.com/eO5z1xV.png" /></a>
+            <td><a href="#"><img alt="Laravel" title="Laravel" height="28px" 
+				 src="https://asset.brandfetch.io/ide68-31CH/idlxAUbIOo.jpeg" /></a>
         </tr>
         <tr>
-            <td><a href="#"><img alt="Terminal" title="Terminal" height="28px"
-				 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
+            <td><a href="#"><img alt="ReactJS" title="ReactJS" height="28px"
+				 src="https://pngdownloadfree.com/i1/930/2507930-middle.png" /></a>
             </td>
             <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="28px"
 				 src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a></td>
