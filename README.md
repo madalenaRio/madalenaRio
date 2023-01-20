@@ -7,7 +7,7 @@
 
 ## 📖 About me
 
-* 💻 I'm a junior full stack web developer focused on back end
+* 💻 I'm a junior full stack web developer
 * 🎨 I'm a self-taught illustrator artist
 * 🎓 I'm a student of life!
 
